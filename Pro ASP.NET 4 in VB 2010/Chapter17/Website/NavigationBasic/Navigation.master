@@ -1,0 +1,45 @@
+<%@ Master Language="VB" CodeFile="Navigation.master.vb"
+   Inherits="NavigationBasic_Navigation" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+   <title>Untitled Page</title>
+</head>
+<body>
+   <form id="form1" runat="server">
+   <div>
+      <%--To display breadcrumb trail.--%>
+            <asp:SiteMapPath ID="SiteMapPath1" runat="server">
+      </asp:SiteMapPath>
+      <table>
+         <tr>
+            <td style="width: 226px; vertical-align: top;">
+               &nbsp;<br />
+               <br />
+               <asp:TreeView ID="TreeView1" runat="server" DataSourceID="SiteMapDataSource1">
+               </asp:TreeView>
+               <%--<asp:Menu ID="Menu1" runat="server" DataSourceID="SiteMapDataSource1">
+               </asp:Menu>--%>
+            </td>
+            <td style="vertical-align: top;">
+               &nbsp;<br />
+               <br />
+               <asp:ContentPlaceHolder ID="ContentPlaceHolder1"
+                  runat="server">
+               </asp:ContentPlaceHolder>
+            </td>
+         </tr>
+      </table>
+   </div>
+      <asp:SiteMapDataSource ID="SiteMapDataSource1"
+      runat="server" />
+      <!--Substitute this to start at the current node.-->
+   <%--   <asp:SiteMapDataSource ID="SiteMapDataSource1"
+      runat="server" StartFromCurrentNode="True" />--%>
+      <!--Substitute this to skip the Root node.-->
+   <%--   <asp:SiteMapDataSource ID="SiteMapDataSource1"
+      runat="server" ShowStartingNode="False" />--%>
+   </form>
+</body>
+</html>

@@ -1,0 +1,19 @@
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter22\Website\bin\Chapter22.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter22\Website\bin\Chapter22.pdb
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter22\Website\bin\Chapter22.xml
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter22\Website\obj\Debug\ResolveAssemblyReference.cache
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter22\Website\obj\Debug\Chapter22.Resources.resources
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter22\Website\obj\Debug\Chapter22.vbproj.GenerateResource.Cache
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter22\Website\obj\Debug\Chapter22.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter22\Website\obj\Debug\Chapter22.xml
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter22\Website\obj\Debug\Chapter22.pdb
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter22\Website\bin\Chapter22.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter22\Website\bin\Chapter22.pdb
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter22\Website\bin\Chapter22.xml
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter22\Website\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter22\Website\obj\Debug\Chapter22.Resources.resources
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter22\Website\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter22\Website\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter22\Website\obj\Debug\Chapter22.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter22\Website\obj\Debug\Chapter22.xml
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter22\Website\obj\Debug\Chapter22.pdb

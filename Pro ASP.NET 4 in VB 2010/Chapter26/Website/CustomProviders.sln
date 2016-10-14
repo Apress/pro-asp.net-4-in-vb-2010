@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "APress.ProAspNet.Providers", "APress.ProAspNet.Providers\APress.ProAspNet.Providers.vbproj", "{77E53430-5D94-45E1-ACEB-ECBE94910743}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TestXmlProvider", "TestXmlProvider\", "{FBCDE934-2021-46DA-9ECA-A28ABC56A827}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/TestXmlProvider"
+		Debug.AspNetCompiler.PhysicalPath = "TestXmlProvider\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\TestXmlProvider\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/TestXmlProvider"
+		Release.AspNetCompiler.PhysicalPath = "TestXmlProvider\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\TestXmlProvider\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1059"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77E53430-5D94-45E1-ACEB-ECBE94910743}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{77E53430-5D94-45E1-ACEB-ECBE94910743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E53430-5D94-45E1-ACEB-ECBE94910743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E53430-5D94-45E1-ACEB-ECBE94910743}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{77E53430-5D94-45E1-ACEB-ECBE94910743}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{77E53430-5D94-45E1-ACEB-ECBE94910743}.Release|.NET.ActiveCfg = Release|Any CPU
+		{77E53430-5D94-45E1-ACEB-ECBE94910743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E53430-5D94-45E1-ACEB-ECBE94910743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E53430-5D94-45E1-ACEB-ECBE94910743}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{77E53430-5D94-45E1-ACEB-ECBE94910743}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{FBCDE934-2021-46DA-9ECA-A28ABC56A827}.Debug|.NET.ActiveCfg = Debug|.NET
+		{FBCDE934-2021-46DA-9ECA-A28ABC56A827}.Debug|.NET.Build.0 = Debug|.NET
+		{FBCDE934-2021-46DA-9ECA-A28ABC56A827}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{FBCDE934-2021-46DA-9ECA-A28ABC56A827}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{FBCDE934-2021-46DA-9ECA-A28ABC56A827}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{FBCDE934-2021-46DA-9ECA-A28ABC56A827}.Release|.NET.ActiveCfg = Debug|.NET
+		{FBCDE934-2021-46DA-9ECA-A28ABC56A827}.Release|.NET.Build.0 = Debug|.NET
+		{FBCDE934-2021-46DA-9ECA-A28ABC56A827}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{FBCDE934-2021-46DA-9ECA-A28ABC56A827}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{FBCDE934-2021-46DA-9ECA-A28ABC56A827}.Release|Mixed Platforms.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

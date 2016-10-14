@@ -1,0 +1,10 @@
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter32\ExtendedModel\ExtendedModel\bin\BasicMVCApplication.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter32\ExtendedModel\ExtendedModel\bin\BasicMVCApplication.pdb
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter32\ExtendedModel\ExtendedModel\bin\BasicMVCApplication.xml
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter32\ExtendedModel\ExtendedModel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter32\ExtendedModel\ExtendedModel\obj\Debug\BasicMVCApplication.Resources.resources
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter32\ExtendedModel\ExtendedModel\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter32\ExtendedModel\ExtendedModel\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter32\ExtendedModel\ExtendedModel\obj\Debug\BasicMVCApplication.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter32\ExtendedModel\ExtendedModel\obj\Debug\BasicMVCApplication.xml
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter32\ExtendedModel\ExtendedModel\obj\Debug\BasicMVCApplication.pdb

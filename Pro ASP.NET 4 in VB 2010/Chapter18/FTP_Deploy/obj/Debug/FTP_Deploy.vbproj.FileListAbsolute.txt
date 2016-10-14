@@ -1,0 +1,10 @@
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter18New\Chapter18\FTP_Deploy\FTP_Deploy\bin\FTP_Deploy.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter18New\Chapter18\FTP_Deploy\FTP_Deploy\bin\FTP_Deploy.pdb
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter18New\Chapter18\FTP_Deploy\FTP_Deploy\bin\FTP_Deploy.xml
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter18New\Chapter18\FTP_Deploy\FTP_Deploy\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter18New\Chapter18\FTP_Deploy\FTP_Deploy\obj\Debug\FTP_Deploy.Resources.resources
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter18New\Chapter18\FTP_Deploy\FTP_Deploy\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter18New\Chapter18\FTP_Deploy\FTP_Deploy\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter18New\Chapter18\FTP_Deploy\FTP_Deploy\obj\Debug\FTP_Deploy.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter18New\Chapter18\FTP_Deploy\FTP_Deploy\obj\Debug\FTP_Deploy.xml
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter18New\Chapter18\FTP_Deploy\FTP_Deploy\obj\Debug\FTP_Deploy.pdb

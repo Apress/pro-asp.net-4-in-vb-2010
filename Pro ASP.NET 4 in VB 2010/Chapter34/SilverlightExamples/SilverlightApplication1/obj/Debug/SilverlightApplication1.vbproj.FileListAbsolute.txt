@@ -1,0 +1,96 @@
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\obj\Debug\App.g.vb
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\obj\Debug\DragCircles.g.vb
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\obj\Debug\FallingRectangles.g.vb
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\obj\Debug\GrowButton.g.vb
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\obj\Debug\HelloWorld.g.vb
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\obj\Debug\MenuPage.g.vb
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\obj\Debug\NestedContainers.g.vb
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\obj\Debug\ProportionalGrid.g.vb
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\obj\Debug\RotatingButtons.g.vb
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\obj\Debug\WebServiceTest.g.vb
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\obj\Debug\SilverlightApplication1.g.resources
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\Bin\Debug\AppManifest.xaml
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\Bin\Debug\SilverlightApplication1.dll
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\Bin\Debug\SilverlightApplication1.pdb
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\Bin\Debug\SilverlightApplication1.xml
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\Bin\Debug\SilverlightApplication1.xap
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\Bin\Debug\TestPage.html
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\obj\Debug\SilverlightApplication1.dll
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\obj\Debug\SilverlightApplication1.xml
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\obj\Debug\SilverlightApplication1.pdb
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\obj\Debug\XapCacheFile.xml
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\Bin\Debug\System.Windows.Controls.dll
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\Bin\Debug\System.Windows.Controls.xml
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\matthew\Desktop\SilverlightVB\SilverlightApplication1\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\Bin\Debug\AppManifest.xaml
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\Bin\Debug\SilverlightApplication1.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\Bin\Debug\SilverlightApplication1.pdb
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\Bin\Debug\SilverlightApplication1.xml
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\Bin\Debug\SilverlightApplication1.xap
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\Bin\Debug\TestPage.html
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\Bin\Debug\System.Windows.Controls.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\Bin\Debug\System.Windows.Controls.xml
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\Bin\Debug\de\System.Windows.Controls.resources.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\Bin\Debug\es\System.Windows.Controls.resources.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\Bin\Debug\fr\System.Windows.Controls.resources.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\Bin\Debug\it\System.Windows.Controls.resources.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\Bin\Debug\ja\System.Windows.Controls.resources.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\Bin\Debug\ko\System.Windows.Controls.resources.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\obj\Debug\App.g.vb
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\obj\Debug\DragCircles.g.vb
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\obj\Debug\FallingRectangles.g.vb
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\obj\Debug\GrowButton.g.vb
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\obj\Debug\HelloWorld.g.vb
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\obj\Debug\MenuPage.g.vb
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\obj\Debug\NestedContainers.g.vb
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\obj\Debug\ProportionalGrid.g.vb
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\obj\Debug\RotatingButtons.g.vb
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\obj\Debug\WebServiceTest.g.vb
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\obj\Debug\SilverlightApplication1.g.resources
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\obj\Debug\SilverlightApplication1.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\obj\Debug\SilverlightApplication1.xml
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\obj\Debug\SilverlightApplication1.pdb
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1\obj\Debug\XapCacheFile.xml
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\Bin\Debug\SilverlightApplication1.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\Bin\Debug\SilverlightApplication1.pdb
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\Bin\Debug\SilverlightApplication1.xml
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\Bin\Debug\AppManifest.xaml
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\Bin\Debug\SilverlightApplication1.xap
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\Bin\Debug\TestPage.html
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\Bin\Debug\System.Windows.Controls.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\Bin\Debug\System.Windows.Controls.xml
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\obj\Debug\App.g.vb
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\obj\Debug\DragCircles.g.vb
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\obj\Debug\FallingRectangles.g.vb
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\obj\Debug\GrowButton.g.vb
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\obj\Debug\HelloWorld.g.vb
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\obj\Debug\MenuPage.g.vb
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\obj\Debug\NestedContainers.g.vb
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\obj\Debug\ProportionalGrid.g.vb
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\obj\Debug\RotatingButtons.g.vb
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\obj\Debug\WebServiceTest.g.vb
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\obj\Debug\SilverlightApplication1.g.resources
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\obj\Debug\SilverlightApplication1.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\obj\Debug\SilverlightApplication1.xml
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\obj\Debug\SilverlightApplication1.pdb
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1\obj\Debug\XapCacheFile.xml

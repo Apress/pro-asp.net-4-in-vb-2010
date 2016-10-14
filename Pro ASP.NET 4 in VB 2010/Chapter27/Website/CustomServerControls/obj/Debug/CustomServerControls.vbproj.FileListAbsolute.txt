@@ -1,0 +1,81 @@
+D:\VBConversion\Chp-27\CustomServerControls\CustomServerControls\obj\Debug\ResolveAssemblyReference.cache
+D:\VBConversion\Chp-27\CustomServerControls\CustomServerControls\obj\Debug\CustomServerControls.Resources.resources
+D:\VBConversion\Chp-27\CustomServerControls\CustomServerControls\obj\Debug\CustomServerControls.vbproj.GenerateResource.Cache
+D:\VBConversion\Chp-27\CustomServerControls\CustomServerControls\obj\Debug\CustomServerControls.CustomServerControlsLibrary.ColorTypeEditorControl.resources
+D:\VBConversion\Chp-27\CustomServerControls\CustomServerControls\bin\Debug\CustomServerControlsLibrary.dll
+D:\VBConversion\Chp-27\CustomServerControls\CustomServerControls\bin\Debug\CustomServerControlsLibrary.pdb
+D:\VBConversion\Chp-27\CustomServerControls\CustomServerControls\bin\Debug\CustomServerControlsLibrary.xml
+D:\VBConversion\Chp-27\CustomServerControls\CustomServerControls\obj\Debug\CustomServerControlsLibrary.dll
+D:\VBConversion\Chp-27\CustomServerControls\CustomServerControls\obj\Debug\CustomServerControlsLibrary.xml
+D:\VBConversion\Chp-27\CustomServerControls\CustomServerControls\obj\Debug\CustomServerControlsLibrary.pdb
+D:\VBConversion\Chp-27\CustomServerControls\bin\Debug\CustomServerControlsLibrary.dll
+D:\VBConversion\Chp-27\CustomServerControls\bin\Debug\CustomServerControlsLibrary.pdb
+D:\VBConversion\Chp-27\CustomServerControls\bin\Debug\CustomServerControlsLibrary.xml
+D:\VBConversion\Chp-27\CustomServerControls\obj\Debug\ResolveAssemblyReference.cache
+D:\VBConversion\Chp-27\CustomServerControls\obj\Debug\CustomServerControlsLibrary.CustomServerControlsLibrary.ColorTypeEditorControl.resources
+D:\VBConversion\Chp-27\CustomServerControls\obj\Debug\CustomServerControlsLibrary.Resources.resources
+D:\VBConversion\Chp-27\CustomServerControls\obj\Debug\CustomServerControls.vbproj.GenerateResource.Cache
+D:\VBConversion\Chp-27\CustomServerControls\obj\Debug\CustomServerControlsLibrary.dll
+D:\VBConversion\Chp-27\CustomServerControls\obj\Debug\CustomServerControlsLibrary.xml
+D:\VBConversion\Chp-27\CustomServerControls\obj\Debug\CustomServerControlsLibrary.pdb
+D:\Chp-27\CustomServerControls\bin\Debug\CustomServerControlsLibrary.dll
+D:\Chp-27\CustomServerControls\bin\Debug\CustomServerControlsLibrary.pdb
+D:\Chp-27\CustomServerControls\bin\Debug\CustomServerControlsLibrary.xml
+D:\Chp-27\CustomServerControls\obj\Debug\ResolveAssemblyReference.cache
+D:\Chp-27\CustomServerControls\obj\Debug\CustomServerControls.vbproj.GenerateResource.Cache
+D:\Chp-27\CustomServerControls\obj\Debug\CustomServerControlsLibrary.dll
+D:\Chp-27\CustomServerControls\obj\Debug\CustomServerControlsLibrary.xml
+D:\Chp-27\CustomServerControls\obj\Debug\CustomServerControlsLibrary.pdb
+D:\Chp-27\CustomServerControls\obj\Debug\CustomServerControlsLibrary.CustomServerControlsLibrary.ColorTypeEditorControl.resources
+D:\Chp-27\CustomServerControls\obj\Debug\CustomServerControlsLibrary.Resources.resources
+C:\Documents and Settings\vidyavrat_agarwal\Desktop\Chp-27\Chp-27\CustomServerControls\bin\Debug\CustomServerControlsLibrary.dll
+C:\Documents and Settings\vidyavrat_agarwal\Desktop\Chp-27\Chp-27\CustomServerControls\bin\Debug\CustomServerControlsLibrary.pdb
+C:\Documents and Settings\vidyavrat_agarwal\Desktop\Chp-27\Chp-27\CustomServerControls\bin\Debug\CustomServerControlsLibrary.xml
+C:\Documents and Settings\vidyavrat_agarwal\Desktop\Chp-27\Chp-27\CustomServerControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\vidyavrat_agarwal\Desktop\Chp-27\Chp-27\CustomServerControls\obj\Debug\CustomServerControlsLibrary.CustomServerControlsLibrary.ColorTypeEditorControl.resources
+C:\Documents and Settings\vidyavrat_agarwal\Desktop\Chp-27\Chp-27\CustomServerControls\obj\Debug\CustomServerControlsLibrary.Resources.resources
+C:\Documents and Settings\vidyavrat_agarwal\Desktop\Chp-27\Chp-27\CustomServerControls\obj\Debug\CustomServerControls.vbproj.GenerateResource.Cache
+C:\Documents and Settings\vidyavrat_agarwal\Desktop\Chp-27\Chp-27\CustomServerControls\obj\Debug\CustomServerControlsLibrary.dll
+C:\Documents and Settings\vidyavrat_agarwal\Desktop\Chp-27\Chp-27\CustomServerControls\obj\Debug\CustomServerControlsLibrary.xml
+C:\Documents and Settings\vidyavrat_agarwal\Desktop\Chp-27\Chp-27\CustomServerControls\obj\Debug\CustomServerControlsLibrary.pdb
+G:\Chp-27\Chp-27\CustomServerControls\bin\Debug\CustomServerControlsLibrary.dll
+G:\Chp-27\Chp-27\CustomServerControls\bin\Debug\CustomServerControlsLibrary.pdb
+G:\Chp-27\Chp-27\CustomServerControls\bin\Debug\CustomServerControlsLibrary.xml
+G:\Chp-27\Chp-27\CustomServerControls\obj\Debug\ResolveAssemblyReference.cache
+G:\Chp-27\Chp-27\CustomServerControls\obj\Debug\CustomServerControlsLibrary.CustomServerControlsLibrary.ColorTypeEditorControl.resources
+G:\Chp-27\Chp-27\CustomServerControls\obj\Debug\CustomServerControlsLibrary.Resources.resources
+G:\Chp-27\Chp-27\CustomServerControls\obj\Debug\CustomServerControls.vbproj.GenerateResource.Cache
+G:\Chp-27\Chp-27\CustomServerControls\obj\Debug\CustomServerControlsLibrary.dll
+G:\Chp-27\Chp-27\CustomServerControls\obj\Debug\CustomServerControlsLibrary.xml
+G:\Chp-27\Chp-27\CustomServerControls\obj\Debug\CustomServerControlsLibrary.pdb
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter27\Chp-27\Chp-27\CustomServerControls\bin\Debug\CustomServerControlsLibrary.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter27\Chp-27\Chp-27\CustomServerControls\bin\Debug\CustomServerControlsLibrary.pdb
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter27\Chp-27\Chp-27\CustomServerControls\bin\Debug\CustomServerControlsLibrary.xml
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter27\Chp-27\Chp-27\CustomServerControls\obj\Debug\ResolveAssemblyReference.cache
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter27\Chp-27\Chp-27\CustomServerControls\obj\Debug\CustomServerControlsLibrary.CustomServerControlsLibrary.ColorTypeEditorControl.resources
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter27\Chp-27\Chp-27\CustomServerControls\obj\Debug\CustomServerControlsLibrary.Resources.resources
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter27\Chp-27\Chp-27\CustomServerControls\obj\Debug\CustomServerControls.vbproj.GenerateResource.Cache
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter27\Chp-27\Chp-27\CustomServerControls\obj\Debug\CustomServerControlsLibrary.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter27\Chp-27\Chp-27\CustomServerControls\obj\Debug\CustomServerControlsLibrary.xml
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter27\Chp-27\Chp-27\CustomServerControls\obj\Debug\CustomServerControlsLibrary.pdb
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter27\Website\CustomServerControls\bin\Debug\CustomServerControlsLibrary.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter27\Website\CustomServerControls\bin\Debug\CustomServerControlsLibrary.pdb
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter27\Website\CustomServerControls\bin\Debug\CustomServerControlsLibrary.xml
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter27\Website\CustomServerControls\obj\Debug\ResolveAssemblyReference.cache
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter27\Website\CustomServerControls\obj\Debug\CustomServerControlsLibrary.CustomServerControlsLibrary.ColorTypeEditorControl.resources
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter27\Website\CustomServerControls\obj\Debug\CustomServerControlsLibrary.Resources.resources
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter27\Website\CustomServerControls\obj\Debug\CustomServerControls.vbproj.GenerateResource.Cache
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter27\Website\CustomServerControls\obj\Debug\CustomServerControlsLibrary.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter27\Website\CustomServerControls\obj\Debug\CustomServerControlsLibrary.xml
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter27\Website\CustomServerControls\obj\Debug\CustomServerControlsLibrary.pdb
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter27\Website\CustomServerControls\bin\Debug\CustomServerControlsLibrary.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter27\Website\CustomServerControls\bin\Debug\CustomServerControlsLibrary.pdb
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter27\Website\CustomServerControls\bin\Debug\CustomServerControlsLibrary.xml
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter27\Website\CustomServerControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter27\Website\CustomServerControls\obj\Debug\CustomServerControlsLibrary.CustomServerControlsLibrary.ColorTypeEditorControl.resources
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter27\Website\CustomServerControls\obj\Debug\CustomServerControlsLibrary.Resources.resources
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter27\Website\CustomServerControls\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter27\Website\CustomServerControls\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter27\Website\CustomServerControls\obj\Debug\CustomServerControlsLibrary.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter27\Website\CustomServerControls\obj\Debug\CustomServerControlsLibrary.xml
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter27\Website\CustomServerControls\obj\Debug\CustomServerControlsLibrary.pdb

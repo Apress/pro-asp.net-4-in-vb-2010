@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CustomServerControlsLibrary
+</name>
+</assembly>
+<members>
+<member name="F:CustomServerControlsLibrary.CustomServerControlsLibrary.ColorTypeEditorControl.components">
+	<summary> 
+ Required designer variable. 
+ </summary>
+</member><member name="M:CustomServerControlsLibrary.CustomServerControlsLibrary.ColorTypeEditorControl.#ctor(System.Drawing.Color,System.Web.UI.WebControls.WebControl)">
+	<summary> 
+ Constructor of the user control. 
+ </summary>
+	<param name="colorToEdit">The color which is going to be edited.</param>
+</member><member name="M:CustomServerControlsLibrary.CustomServerControlsLibrary.ColorTypeEditorControl.Dispose(System.Boolean)">
+	<summary> 
+ Clean up any resources being used. 
+ </summary>
+</member><member name="T:CustomServerControlsLibrary.CustomServerControlsLibrary.ColorTypeEditorControl">
+	<summary> 
+ A custom UI editor for colors. 
+ </summary>
+</member><member name="P:CustomServerControlsLibrary.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:CustomServerControlsLibrary.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:CustomServerControlsLibrary.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

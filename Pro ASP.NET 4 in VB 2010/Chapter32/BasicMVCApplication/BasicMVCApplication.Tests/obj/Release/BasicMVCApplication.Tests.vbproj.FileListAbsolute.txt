@@ -1,0 +1,11 @@
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter32\BasicMVCApplication\BasicMVCApplication.Tests\bin\Release\BasicMVCApplication.Tests.dll.config
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter32\BasicMVCApplication\BasicMVCApplication.Tests\bin\Release\BasicMVCApplication.Tests.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter32\BasicMVCApplication\BasicMVCApplication.Tests\bin\Release\BasicMVCApplication.Tests.pdb
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter32\BasicMVCApplication\BasicMVCApplication.Tests\bin\Release\BasicMVCApplication.Tests.xml
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter32\BasicMVCApplication\BasicMVCApplication.Tests\bin\Release\BasicMVCApplication.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter32\BasicMVCApplication\BasicMVCApplication.Tests\bin\Release\BasicMVCApplication.pdb
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter32\BasicMVCApplication\BasicMVCApplication.Tests\bin\Release\BasicMVCApplication.xml
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter32\BasicMVCApplication\BasicMVCApplication.Tests\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter32\BasicMVCApplication\BasicMVCApplication.Tests\obj\Release\BasicMVCApplication.Tests.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter32\BasicMVCApplication\BasicMVCApplication.Tests\obj\Release\BasicMVCApplication.Tests.xml
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter32\BasicMVCApplication\BasicMVCApplication.Tests\obj\Release\BasicMVCApplication.Tests.pdb

@@ -1,0 +1,39 @@
+﻿<%@ Master Language="VB" CodeFile="TableMaster.master.vb" Inherits="MasterPages_TableMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Untitled Page</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table width="100%">
+            <tr>
+                <td colspan="2" style="border: thin #008000 dotted; background: #FFFFEA; padding: 10px;">
+                    My Header
+                </td>
+            </tr>
+            <tr>
+                <td style="border: thin #008000 dotted; background: #FFFFEA; padding: 10px;">
+                    <asp:TreeView ID="Treeview1" runat="server" Width="150px">
+                        <Nodes>
+                            <asp:TreeNode Text="New Node" Value="New Node"></asp:TreeNode>
+                        </Nodes>
+                    </asp:TreeView>
+                </td>
+                <td>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="border: thin #008000 dotted; background: #FFFFEA; padding: 10px;">
+                    My Footer
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

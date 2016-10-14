@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RolesDemo", "RolesDemo\", "{C12DF51A-B5E5-4CE8-8B61-6FE4C8284B20}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/RolesDemo"
+		Debug.AspNetCompiler.PhysicalPath = "RolesDemo\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\RolesDemo\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/RolesDemo"
+		Release.AspNetCompiler.PhysicalPath = "RolesDemo\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\RolesDemo\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1943"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WinRoles", "WinRoles\", "{D390E220-BB64-4FBD-84E0-5432A671C313}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/WinRoles"
+		Debug.AspNetCompiler.PhysicalPath = "WinRoles\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WinRoles\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WinRoles"
+		Release.AspNetCompiler.PhysicalPath = "WinRoles\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WinRoles\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1944"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C12DF51A-B5E5-4CE8-8B61-6FE4C8284B20}.Debug|.NET.ActiveCfg = Debug|.NET
+		{C12DF51A-B5E5-4CE8-8B61-6FE4C8284B20}.Debug|.NET.Build.0 = Debug|.NET
+		{C12DF51A-B5E5-4CE8-8B61-6FE4C8284B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C12DF51A-B5E5-4CE8-8B61-6FE4C8284B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C12DF51A-B5E5-4CE8-8B61-6FE4C8284B20}.Release|.NET.ActiveCfg = Debug|.NET
+		{C12DF51A-B5E5-4CE8-8B61-6FE4C8284B20}.Release|.NET.Build.0 = Debug|.NET
+		{C12DF51A-B5E5-4CE8-8B61-6FE4C8284B20}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{D390E220-BB64-4FBD-84E0-5432A671C313}.Debug|.NET.ActiveCfg = Debug|.NET
+		{D390E220-BB64-4FBD-84E0-5432A671C313}.Debug|.NET.Build.0 = Debug|.NET
+		{D390E220-BB64-4FBD-84E0-5432A671C313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D390E220-BB64-4FBD-84E0-5432A671C313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D390E220-BB64-4FBD-84E0-5432A671C313}.Release|.NET.ActiveCfg = Debug|.NET
+		{D390E220-BB64-4FBD-84E0-5432A671C313}.Release|.NET.Build.0 = Debug|.NET
+		{D390E220-BB64-4FBD-84E0-5432A671C313}.Release|Any CPU.ActiveCfg = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

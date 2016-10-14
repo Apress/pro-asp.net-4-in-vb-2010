@@ -1,0 +1,37 @@
+D:\VBConversion\Chp-26\APress.ProAspNet.Providers\obj\Debug\ResolveAssemblyReference.cache
+D:\VBConversion\Chp-26\APress.ProAspNet.Providers\obj\Debug\APress.ProAspNet.Providers.Resources.resources
+D:\VBConversion\Chp-26\APress.ProAspNet.Providers\obj\Debug\APress.ProAspNet.Providers.vbproj.GenerateResource.Cache
+D:\VBConversion\Chp-26\APress.ProAspNet.Providers\bin\Debug\APress.ProAspNet.Providers.dll
+D:\VBConversion\Chp-26\APress.ProAspNet.Providers\bin\Debug\APress.ProAspNet.Providers.pdb
+D:\VBConversion\Chp-26\APress.ProAspNet.Providers\bin\Debug\APress.ProAspNet.Providers.xml
+D:\VBConversion\Chp-26\APress.ProAspNet.Providers\obj\Debug\APress.ProAspNet.Providers.dll
+D:\VBConversion\Chp-26\APress.ProAspNet.Providers\obj\Debug\APress.ProAspNet.Providers.xml
+D:\VBConversion\Chp-26\APress.ProAspNet.Providers\obj\Debug\APress.ProAspNet.Providers.pdb
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter collection\Chp-26_27_30\Chp-26\APress.ProAspNet.Providers\bin\Debug\APress.ProAspNet.Providers.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter collection\Chp-26_27_30\Chp-26\APress.ProAspNet.Providers\bin\Debug\APress.ProAspNet.Providers.pdb
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter collection\Chp-26_27_30\Chp-26\APress.ProAspNet.Providers\bin\Debug\APress.ProAspNet.Providers.xml
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter collection\Chp-26_27_30\Chp-26\APress.ProAspNet.Providers\obj\Debug\ResolveAssemblyReference.cache
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter collection\Chp-26_27_30\Chp-26\APress.ProAspNet.Providers\obj\Debug\APress.ProAspNet.Providers.Resources.resources
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter collection\Chp-26_27_30\Chp-26\APress.ProAspNet.Providers\obj\Debug\APress.ProAspNet.Providers.vbproj.GenerateResource.Cache
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter collection\Chp-26_27_30\Chp-26\APress.ProAspNet.Providers\obj\Debug\APress.ProAspNet.Providers.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter collection\Chp-26_27_30\Chp-26\APress.ProAspNet.Providers\obj\Debug\APress.ProAspNet.Providers.xml
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter collection\Chp-26_27_30\Chp-26\APress.ProAspNet.Providers\obj\Debug\APress.ProAspNet.Providers.pdb
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter26\Website\APress.ProAspNet.Providers\bin\Debug\APress.ProAspNet.Providers.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter26\Website\APress.ProAspNet.Providers\bin\Debug\APress.ProAspNet.Providers.pdb
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter26\Website\APress.ProAspNet.Providers\bin\Debug\APress.ProAspNet.Providers.xml
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter26\Website\APress.ProAspNet.Providers\obj\Debug\ResolveAssemblyReference.cache
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter26\Website\APress.ProAspNet.Providers\obj\Debug\APress.ProAspNet.Providers.Resources.resources
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter26\Website\APress.ProAspNet.Providers\obj\Debug\APress.ProAspNet.Providers.vbproj.GenerateResource.Cache
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter26\Website\APress.ProAspNet.Providers\obj\Debug\APress.ProAspNet.Providers.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter26\Website\APress.ProAspNet.Providers\obj\Debug\APress.ProAspNet.Providers.xml
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter26\Website\APress.ProAspNet.Providers\obj\Debug\APress.ProAspNet.Providers.pdb
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter26\Website\APress.ProAspNet.Providers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter26\Website\APress.ProAspNet.Providers\obj\Debug\APress.ProAspNet.Providers.Resources.resources
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter26\Website\APress.ProAspNet.Providers\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter26\Website\APress.ProAspNet.Providers\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter26\Website\APress.ProAspNet.Providers\obj\Debug\APress.ProAspNet.Providers.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter26\Website\APress.ProAspNet.Providers\obj\Debug\APress.ProAspNet.Providers.xml
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter26\Website\APress.ProAspNet.Providers\obj\Debug\APress.ProAspNet.Providers.pdb
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter26\Website\APress.ProAspNet.Providers\bin\Debug\APress.ProAspNet.Providers.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter26\Website\APress.ProAspNet.Providers\bin\Debug\APress.ProAspNet.Providers.pdb
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter26\Website\APress.ProAspNet.Providers\bin\Debug\APress.ProAspNet.Providers.xml

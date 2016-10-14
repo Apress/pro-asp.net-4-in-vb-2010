@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SilverlightApplication1
+</name>
+</assembly>
+<members>
+<member name="M:SilverlightApplication1.NestedContainers.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:SilverlightApplication1.FallingRectangles.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:SilverlightApplication1.MenuPage.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:SilverlightApplication1.ProportionalGrid.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:SilverlightApplication1.App.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:SilverlightApplication1.DragCircles.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:SilverlightApplication1.RotatingButtons.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:SilverlightApplication1.GrowButton.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:SilverlightApplication1.WebServiceTest.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:SilverlightApplication1.HelloWorld.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,29 @@
+﻿    <%@ Master Language="VB" CodeFile="CustomizableMasterPage.master.vb" Inherits="MasterPages_CustomizableMasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Untitled Page</title>   
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table width="100%">
+    <tr ><td style="background-color:black; font-weight:bold; font-size:20px; color:white; font-family:Verdana">
+    <img style="float:left" src="headerleft.jpg" alt="left fractal"/>
+    <img style="float:right" src="headerright.jpg" alt="right fractal"/>
+    <br />
+    <asp:Label id="lblTitleContent" runat="server">
+        </asp:Label>     
+        </td></tr></table> 
+            <br />
+        <br />
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+            <br />
+        <em>Copyright © 2010.</em>
+    </div>
+    </form>
+</body>
+</html>

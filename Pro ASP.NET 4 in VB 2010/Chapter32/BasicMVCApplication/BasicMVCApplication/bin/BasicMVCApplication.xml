@@ -1,0 +1,1361 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BasicMVCApplication
+</name>
+</assembly>
+<members>
+<member name="M:BasicMVCApplication.northwndEntities.#ctor">
+	<summary>
+ Initializes a new northwndEntities object using the connection string found in the 'northwndEntities' section of the application configuration file.
+ </summary>
+</member><member name="M:BasicMVCApplication.northwndEntities.#ctor(System.String)">
+	<summary>
+ Initialize a new northwndEntities object.
+ </summary>
+</member><member name="M:BasicMVCApplication.northwndEntities.#ctor(System.Data.EntityClient.EntityConnection)">
+	<summary>
+ Initialize a new northwndEntities object.
+ </summary>
+</member><member name="P:BasicMVCApplication.northwndEntities.Categories">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.northwndEntities.CustomerDemographics">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.northwndEntities.Customers">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.northwndEntities.Employees">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.northwndEntities.Order_Details">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.northwndEntities.Orders">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.northwndEntities.Products">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.northwndEntities.Regions">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.northwndEntities.Shippers">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.northwndEntities.Suppliers">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.northwndEntities.Territories">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.northwndEntities.Alphabetical_list_of_products">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.northwndEntities.Category_Sales_for_1997">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.northwndEntities.Current_Product_Lists">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.northwndEntities.Customer_and_Suppliers_by_Cities">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.northwndEntities.Invoices">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.northwndEntities.Order_Details_Extendeds">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.northwndEntities.Order_Subtotals">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.northwndEntities.Orders_Qries">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.northwndEntities.Product_Sales_for_1997">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.northwndEntities.Products_Above_Average_Prices">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.northwndEntities.Products_by_Categories">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.northwndEntities.Sales_by_Categories">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.northwndEntities.Sales_Totals_by_Amounts">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.northwndEntities.Summary_of_Sales_by_Quarters">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.northwndEntities.Summary_of_Sales_by_Years">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:BasicMVCApplication.northwndEntities.AddToCategories(BasicMVCApplication.Category)">
+	<summary>
+ Deprecated Method for adding a new object to the Categories EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:BasicMVCApplication.northwndEntities.AddToCustomerDemographics(BasicMVCApplication.CustomerDemographic)">
+	<summary>
+ Deprecated Method for adding a new object to the CustomerDemographics EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:BasicMVCApplication.northwndEntities.AddToCustomers(BasicMVCApplication.Customer)">
+	<summary>
+ Deprecated Method for adding a new object to the Customers EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:BasicMVCApplication.northwndEntities.AddToEmployees(BasicMVCApplication.Employee)">
+	<summary>
+ Deprecated Method for adding a new object to the Employees EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:BasicMVCApplication.northwndEntities.AddToOrder_Details(BasicMVCApplication.Order_Detail)">
+	<summary>
+ Deprecated Method for adding a new object to the Order_Details EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:BasicMVCApplication.northwndEntities.AddToOrders(BasicMVCApplication.Order)">
+	<summary>
+ Deprecated Method for adding a new object to the Orders EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:BasicMVCApplication.northwndEntities.AddToProducts(BasicMVCApplication.Product)">
+	<summary>
+ Deprecated Method for adding a new object to the Products EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:BasicMVCApplication.northwndEntities.AddToRegions(BasicMVCApplication.Region)">
+	<summary>
+ Deprecated Method for adding a new object to the Regions EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:BasicMVCApplication.northwndEntities.AddToShippers(BasicMVCApplication.Shipper)">
+	<summary>
+ Deprecated Method for adding a new object to the Shippers EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:BasicMVCApplication.northwndEntities.AddToSuppliers(BasicMVCApplication.Supplier)">
+	<summary>
+ Deprecated Method for adding a new object to the Suppliers EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:BasicMVCApplication.northwndEntities.AddToTerritories(BasicMVCApplication.Territory)">
+	<summary>
+ Deprecated Method for adding a new object to the Territories EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:BasicMVCApplication.northwndEntities.AddToAlphabetical_list_of_products(BasicMVCApplication.Alphabetical_list_of_product)">
+	<summary>
+ Deprecated Method for adding a new object to the Alphabetical_list_of_products EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:BasicMVCApplication.northwndEntities.AddToCategory_Sales_for_1997(BasicMVCApplication.Category_Sales_for_1997)">
+	<summary>
+ Deprecated Method for adding a new object to the Category_Sales_for_1997 EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:BasicMVCApplication.northwndEntities.AddToCurrent_Product_Lists(BasicMVCApplication.Current_Product_List)">
+	<summary>
+ Deprecated Method for adding a new object to the Current_Product_Lists EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:BasicMVCApplication.northwndEntities.AddToCustomer_and_Suppliers_by_Cities(BasicMVCApplication.Customer_and_Suppliers_by_City)">
+	<summary>
+ Deprecated Method for adding a new object to the Customer_and_Suppliers_by_Cities EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:BasicMVCApplication.northwndEntities.AddToInvoices(BasicMVCApplication.Invoice)">
+	<summary>
+ Deprecated Method for adding a new object to the Invoices EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:BasicMVCApplication.northwndEntities.AddToOrder_Details_Extendeds(BasicMVCApplication.Order_Details_Extended)">
+	<summary>
+ Deprecated Method for adding a new object to the Order_Details_Extendeds EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:BasicMVCApplication.northwndEntities.AddToOrder_Subtotals(BasicMVCApplication.Order_Subtotal)">
+	<summary>
+ Deprecated Method for adding a new object to the Order_Subtotals EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:BasicMVCApplication.northwndEntities.AddToOrders_Qries(BasicMVCApplication.Orders_Qry)">
+	<summary>
+ Deprecated Method for adding a new object to the Orders_Qries EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:BasicMVCApplication.northwndEntities.AddToProduct_Sales_for_1997(BasicMVCApplication.Product_Sales_for_1997)">
+	<summary>
+ Deprecated Method for adding a new object to the Product_Sales_for_1997 EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:BasicMVCApplication.northwndEntities.AddToProducts_Above_Average_Prices(BasicMVCApplication.Products_Above_Average_Price)">
+	<summary>
+ Deprecated Method for adding a new object to the Products_Above_Average_Prices EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:BasicMVCApplication.northwndEntities.AddToProducts_by_Categories(BasicMVCApplication.Products_by_Category)">
+	<summary>
+ Deprecated Method for adding a new object to the Products_by_Categories EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:BasicMVCApplication.northwndEntities.AddToSales_by_Categories(BasicMVCApplication.Sales_by_Category)">
+	<summary>
+ Deprecated Method for adding a new object to the Sales_by_Categories EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:BasicMVCApplication.northwndEntities.AddToSales_Totals_by_Amounts(BasicMVCApplication.Sales_Totals_by_Amount)">
+	<summary>
+ Deprecated Method for adding a new object to the Sales_Totals_by_Amounts EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:BasicMVCApplication.northwndEntities.AddToSummary_of_Sales_by_Quarters(BasicMVCApplication.Summary_of_Sales_by_Quarter)">
+	<summary>
+ Deprecated Method for adding a new object to the Summary_of_Sales_by_Quarters EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:BasicMVCApplication.northwndEntities.AddToSummary_of_Sales_by_Years(BasicMVCApplication.Summary_of_Sales_by_Year)">
+	<summary>
+ Deprecated Method for adding a new object to the Summary_of_Sales_by_Years EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="T:BasicMVCApplication.northwndEntities">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:BasicMVCApplication.Alphabetical_list_of_product.CreateAlphabetical_list_of_product(System.Int32,System.String,System.Boolean,System.String)">
+	<summary>
+ Create a new Alphabetical_list_of_product object.
+ </summary>
+	<param name="productID">Initial value of the ProductID property.</param>
+	<param name="productName">Initial value of the ProductName property.</param>
+	<param name="discontinued">Initial value of the Discontinued property.</param>
+	<param name="categoryName">Initial value of the CategoryName property.</param>
+</member><member name="P:BasicMVCApplication.Alphabetical_list_of_product.ProductID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Alphabetical_list_of_product.ProductName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Alphabetical_list_of_product.SupplierID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Alphabetical_list_of_product.CategoryID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Alphabetical_list_of_product.QuantityPerUnit">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Alphabetical_list_of_product.UnitPrice">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Alphabetical_list_of_product.UnitsInStock">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Alphabetical_list_of_product.UnitsOnOrder">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Alphabetical_list_of_product.ReorderLevel">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Alphabetical_list_of_product.Discontinued">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Alphabetical_list_of_product.CategoryName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:BasicMVCApplication.Alphabetical_list_of_product">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:BasicMVCApplication.Category.CreateCategory(System.Int32,System.String)">
+	<summary>
+ Create a new Category object.
+ </summary>
+	<param name="categoryID">Initial value of the CategoryID property.</param>
+	<param name="categoryName">Initial value of the CategoryName property.</param>
+</member><member name="P:BasicMVCApplication.Category.CategoryID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Category.CategoryName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Category.Description">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Category.Picture">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Category.Products">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:BasicMVCApplication.Category">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:BasicMVCApplication.Category_Sales_for_1997.CreateCategory_Sales_for_1997(System.String)">
+	<summary>
+ Create a new Category_Sales_for_1997 object.
+ </summary>
+	<param name="categoryName">Initial value of the CategoryName property.</param>
+</member><member name="P:BasicMVCApplication.Category_Sales_for_1997.CategoryName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Category_Sales_for_1997.CategorySales">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:BasicMVCApplication.Category_Sales_for_1997">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:BasicMVCApplication.Current_Product_List.CreateCurrent_Product_List(System.Int32,System.String)">
+	<summary>
+ Create a new Current_Product_List object.
+ </summary>
+	<param name="productID">Initial value of the ProductID property.</param>
+	<param name="productName">Initial value of the ProductName property.</param>
+</member><member name="P:BasicMVCApplication.Current_Product_List.ProductID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Current_Product_List.ProductName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:BasicMVCApplication.Current_Product_List">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:BasicMVCApplication.Customer.CreateCustomer(System.String,System.String)">
+	<summary>
+ Create a new Customer object.
+ </summary>
+	<param name="customerID">Initial value of the CustomerID property.</param>
+	<param name="companyName">Initial value of the CompanyName property.</param>
+</member><member name="P:BasicMVCApplication.Customer.CustomerID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Customer.CompanyName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Customer.ContactName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Customer.ContactTitle">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Customer.Address">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Customer.City">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Customer.Region">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Customer.PostalCode">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Customer.Country">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Customer.Phone">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Customer.Fax">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Customer.Orders">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Customer.CustomerDemographics">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:BasicMVCApplication.Customer">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:BasicMVCApplication.Customer_and_Suppliers_by_City.CreateCustomer_and_Suppliers_by_City(System.String,System.String)">
+	<summary>
+ Create a new Customer_and_Suppliers_by_City object.
+ </summary>
+	<param name="companyName">Initial value of the CompanyName property.</param>
+	<param name="relationship">Initial value of the Relationship property.</param>
+</member><member name="P:BasicMVCApplication.Customer_and_Suppliers_by_City.City">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Customer_and_Suppliers_by_City.CompanyName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Customer_and_Suppliers_by_City.ContactName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Customer_and_Suppliers_by_City.Relationship">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:BasicMVCApplication.Customer_and_Suppliers_by_City">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:BasicMVCApplication.CustomerDemographic.CreateCustomerDemographic(System.String)">
+	<summary>
+ Create a new CustomerDemographic object.
+ </summary>
+	<param name="customerTypeID">Initial value of the CustomerTypeID property.</param>
+</member><member name="P:BasicMVCApplication.CustomerDemographic.CustomerTypeID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.CustomerDemographic.CustomerDesc">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.CustomerDemographic.Customers">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:BasicMVCApplication.CustomerDemographic">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:BasicMVCApplication.Employee.CreateEmployee(System.Int32,System.String,System.String)">
+	<summary>
+ Create a new Employee object.
+ </summary>
+	<param name="employeeID">Initial value of the EmployeeID property.</param>
+	<param name="lastName">Initial value of the LastName property.</param>
+	<param name="firstName">Initial value of the FirstName property.</param>
+</member><member name="P:BasicMVCApplication.Employee.EmployeeID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Employee.LastName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Employee.FirstName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Employee.Title">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Employee.TitleOfCourtesy">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Employee.BirthDate">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Employee.HireDate">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Employee.Address">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Employee.City">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Employee.Region">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Employee.PostalCode">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Employee.Country">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Employee.HomePhone">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Employee.Extension">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Employee.Photo">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Employee.Notes">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Employee.ReportsTo">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Employee.PhotoPath">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Employee.Employees1">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Employee.Employee1">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Employee.Employee1Reference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Employee.Orders">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Employee.Territories">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:BasicMVCApplication.Employee">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:BasicMVCApplication.Invoice.CreateInvoice(System.String,System.String,System.Int32,System.String,System.Int32,System.String,System.Decimal,System.Int16,System.Single)">
+	<summary>
+ Create a new Invoice object.
+ </summary>
+	<param name="customerName">Initial value of the CustomerName property.</param>
+	<param name="salesperson">Initial value of the Salesperson property.</param>
+	<param name="orderID">Initial value of the OrderID property.</param>
+	<param name="shipperName">Initial value of the ShipperName property.</param>
+	<param name="productID">Initial value of the ProductID property.</param>
+	<param name="productName">Initial value of the ProductName property.</param>
+	<param name="unitPrice">Initial value of the UnitPrice property.</param>
+	<param name="quantity">Initial value of the Quantity property.</param>
+	<param name="discount">Initial value of the Discount property.</param>
+</member><member name="P:BasicMVCApplication.Invoice.ShipName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Invoice.ShipAddress">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Invoice.ShipCity">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Invoice.ShipRegion">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Invoice.ShipPostalCode">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Invoice.ShipCountry">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Invoice.CustomerID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Invoice.CustomerName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Invoice.Address">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Invoice.City">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Invoice.Region">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Invoice.PostalCode">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Invoice.Country">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Invoice.Salesperson">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Invoice.OrderID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Invoice.OrderDate">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Invoice.RequiredDate">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Invoice.ShippedDate">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Invoice.ShipperName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Invoice.ProductID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Invoice.ProductName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Invoice.UnitPrice">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Invoice.Quantity">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Invoice.Discount">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Invoice.ExtendedPrice">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Invoice.Freight">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:BasicMVCApplication.Invoice">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:BasicMVCApplication.Order.CreateOrder(System.Int32)">
+	<summary>
+ Create a new Order object.
+ </summary>
+	<param name="orderID">Initial value of the OrderID property.</param>
+</member><member name="P:BasicMVCApplication.Order.OrderID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order.CustomerID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order.EmployeeID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order.OrderDate">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order.RequiredDate">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order.ShippedDate">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order.ShipVia">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order.Freight">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order.ShipName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order.ShipAddress">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order.ShipCity">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order.ShipRegion">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order.ShipPostalCode">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order.ShipCountry">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order.Customer">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order.CustomerReference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order.Employee">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order.EmployeeReference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order.Order_Details">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order.Shipper">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order.ShipperReference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:BasicMVCApplication.Order">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:BasicMVCApplication.Order_Detail.CreateOrder_Detail(System.Int32,System.Int32,System.Decimal,System.Int16,System.Single)">
+	<summary>
+ Create a new Order_Detail object.
+ </summary>
+	<param name="orderID">Initial value of the OrderID property.</param>
+	<param name="productID">Initial value of the ProductID property.</param>
+	<param name="unitPrice">Initial value of the UnitPrice property.</param>
+	<param name="quantity">Initial value of the Quantity property.</param>
+	<param name="discount">Initial value of the Discount property.</param>
+</member><member name="P:BasicMVCApplication.Order_Detail.OrderID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order_Detail.ProductID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order_Detail.UnitPrice">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order_Detail.Quantity">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order_Detail.Discount">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order_Detail.Order">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order_Detail.OrderReference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order_Detail.Product">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order_Detail.ProductReference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:BasicMVCApplication.Order_Detail">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:BasicMVCApplication.Order_Details_Extended.CreateOrder_Details_Extended(System.Int32,System.Int32,System.String,System.Decimal,System.Int16,System.Single)">
+	<summary>
+ Create a new Order_Details_Extended object.
+ </summary>
+	<param name="orderID">Initial value of the OrderID property.</param>
+	<param name="productID">Initial value of the ProductID property.</param>
+	<param name="productName">Initial value of the ProductName property.</param>
+	<param name="unitPrice">Initial value of the UnitPrice property.</param>
+	<param name="quantity">Initial value of the Quantity property.</param>
+	<param name="discount">Initial value of the Discount property.</param>
+</member><member name="P:BasicMVCApplication.Order_Details_Extended.OrderID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order_Details_Extended.ProductID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order_Details_Extended.ProductName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order_Details_Extended.UnitPrice">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order_Details_Extended.Quantity">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order_Details_Extended.Discount">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order_Details_Extended.ExtendedPrice">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:BasicMVCApplication.Order_Details_Extended">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:BasicMVCApplication.Order_Subtotal.CreateOrder_Subtotal(System.Int32)">
+	<summary>
+ Create a new Order_Subtotal object.
+ </summary>
+	<param name="orderID">Initial value of the OrderID property.</param>
+</member><member name="P:BasicMVCApplication.Order_Subtotal.OrderID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Order_Subtotal.Subtotal">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:BasicMVCApplication.Order_Subtotal">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:BasicMVCApplication.Orders_Qry.CreateOrders_Qry(System.Int32,System.String)">
+	<summary>
+ Create a new Orders_Qry object.
+ </summary>
+	<param name="orderID">Initial value of the OrderID property.</param>
+	<param name="companyName">Initial value of the CompanyName property.</param>
+</member><member name="P:BasicMVCApplication.Orders_Qry.OrderID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Orders_Qry.CustomerID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Orders_Qry.EmployeeID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Orders_Qry.OrderDate">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Orders_Qry.RequiredDate">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Orders_Qry.ShippedDate">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Orders_Qry.ShipVia">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Orders_Qry.Freight">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Orders_Qry.ShipName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Orders_Qry.ShipAddress">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Orders_Qry.ShipCity">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Orders_Qry.ShipRegion">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Orders_Qry.ShipPostalCode">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Orders_Qry.ShipCountry">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Orders_Qry.CompanyName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Orders_Qry.Address">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Orders_Qry.City">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Orders_Qry.Region">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Orders_Qry.PostalCode">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Orders_Qry.Country">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:BasicMVCApplication.Orders_Qry">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:BasicMVCApplication.Product.CreateProduct(System.Int32,System.String,System.Boolean)">
+	<summary>
+ Create a new Product object.
+ </summary>
+	<param name="productID">Initial value of the ProductID property.</param>
+	<param name="productName">Initial value of the ProductName property.</param>
+	<param name="discontinued">Initial value of the Discontinued property.</param>
+</member><member name="P:BasicMVCApplication.Product.ProductID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Product.ProductName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Product.SupplierID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Product.CategoryID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Product.QuantityPerUnit">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Product.UnitPrice">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Product.UnitsInStock">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Product.UnitsOnOrder">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Product.ReorderLevel">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Product.Discontinued">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Product.Category">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Product.CategoryReference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Product.Order_Details">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Product.Supplier">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Product.SupplierReference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:BasicMVCApplication.Product">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:BasicMVCApplication.Product_Sales_for_1997.CreateProduct_Sales_for_1997(System.String,System.String)">
+	<summary>
+ Create a new Product_Sales_for_1997 object.
+ </summary>
+	<param name="categoryName">Initial value of the CategoryName property.</param>
+	<param name="productName">Initial value of the ProductName property.</param>
+</member><member name="P:BasicMVCApplication.Product_Sales_for_1997.CategoryName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Product_Sales_for_1997.ProductName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Product_Sales_for_1997.ProductSales">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:BasicMVCApplication.Product_Sales_for_1997">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:BasicMVCApplication.Products_Above_Average_Price.CreateProducts_Above_Average_Price(System.String)">
+	<summary>
+ Create a new Products_Above_Average_Price object.
+ </summary>
+	<param name="productName">Initial value of the ProductName property.</param>
+</member><member name="P:BasicMVCApplication.Products_Above_Average_Price.ProductName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Products_Above_Average_Price.UnitPrice">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:BasicMVCApplication.Products_Above_Average_Price">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:BasicMVCApplication.Products_by_Category.CreateProducts_by_Category(System.String,System.String,System.Boolean)">
+	<summary>
+ Create a new Products_by_Category object.
+ </summary>
+	<param name="categoryName">Initial value of the CategoryName property.</param>
+	<param name="productName">Initial value of the ProductName property.</param>
+	<param name="discontinued">Initial value of the Discontinued property.</param>
+</member><member name="P:BasicMVCApplication.Products_by_Category.CategoryName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Products_by_Category.ProductName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Products_by_Category.QuantityPerUnit">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Products_by_Category.UnitsInStock">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Products_by_Category.Discontinued">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:BasicMVCApplication.Products_by_Category">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:BasicMVCApplication.Region.CreateRegion(System.Int32,System.String)">
+	<summary>
+ Create a new Region object.
+ </summary>
+	<param name="regionID">Initial value of the RegionID property.</param>
+	<param name="regionDescription">Initial value of the RegionDescription property.</param>
+</member><member name="P:BasicMVCApplication.Region.RegionID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Region.RegionDescription">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Region.Territories">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:BasicMVCApplication.Region">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:BasicMVCApplication.Sales_by_Category.CreateSales_by_Category(System.Int32,System.String,System.String)">
+	<summary>
+ Create a new Sales_by_Category object.
+ </summary>
+	<param name="categoryID">Initial value of the CategoryID property.</param>
+	<param name="categoryName">Initial value of the CategoryName property.</param>
+	<param name="productName">Initial value of the ProductName property.</param>
+</member><member name="P:BasicMVCApplication.Sales_by_Category.CategoryID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Sales_by_Category.CategoryName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Sales_by_Category.ProductName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Sales_by_Category.ProductSales">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:BasicMVCApplication.Sales_by_Category">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:BasicMVCApplication.Sales_Totals_by_Amount.CreateSales_Totals_by_Amount(System.Int32,System.String)">
+	<summary>
+ Create a new Sales_Totals_by_Amount object.
+ </summary>
+	<param name="orderID">Initial value of the OrderID property.</param>
+	<param name="companyName">Initial value of the CompanyName property.</param>
+</member><member name="P:BasicMVCApplication.Sales_Totals_by_Amount.SaleAmount">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Sales_Totals_by_Amount.OrderID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Sales_Totals_by_Amount.CompanyName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Sales_Totals_by_Amount.ShippedDate">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:BasicMVCApplication.Sales_Totals_by_Amount">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:BasicMVCApplication.Shipper.CreateShipper(System.Int32,System.String)">
+	<summary>
+ Create a new Shipper object.
+ </summary>
+	<param name="shipperID">Initial value of the ShipperID property.</param>
+	<param name="companyName">Initial value of the CompanyName property.</param>
+</member><member name="P:BasicMVCApplication.Shipper.ShipperID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Shipper.CompanyName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Shipper.Phone">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Shipper.Orders">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:BasicMVCApplication.Shipper">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:BasicMVCApplication.Summary_of_Sales_by_Quarter.CreateSummary_of_Sales_by_Quarter(System.Int32)">
+	<summary>
+ Create a new Summary_of_Sales_by_Quarter object.
+ </summary>
+	<param name="orderID">Initial value of the OrderID property.</param>
+</member><member name="P:BasicMVCApplication.Summary_of_Sales_by_Quarter.ShippedDate">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Summary_of_Sales_by_Quarter.OrderID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Summary_of_Sales_by_Quarter.Subtotal">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:BasicMVCApplication.Summary_of_Sales_by_Quarter">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:BasicMVCApplication.Summary_of_Sales_by_Year.CreateSummary_of_Sales_by_Year(System.Int32)">
+	<summary>
+ Create a new Summary_of_Sales_by_Year object.
+ </summary>
+	<param name="orderID">Initial value of the OrderID property.</param>
+</member><member name="P:BasicMVCApplication.Summary_of_Sales_by_Year.ShippedDate">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Summary_of_Sales_by_Year.OrderID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Summary_of_Sales_by_Year.Subtotal">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:BasicMVCApplication.Summary_of_Sales_by_Year">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:BasicMVCApplication.Supplier.CreateSupplier(System.Int32,System.String)">
+	<summary>
+ Create a new Supplier object.
+ </summary>
+	<param name="supplierID">Initial value of the SupplierID property.</param>
+	<param name="companyName">Initial value of the CompanyName property.</param>
+</member><member name="P:BasicMVCApplication.Supplier.SupplierID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Supplier.CompanyName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Supplier.ContactName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Supplier.ContactTitle">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Supplier.Address">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Supplier.City">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Supplier.Region">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Supplier.PostalCode">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Supplier.Country">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Supplier.Phone">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Supplier.Fax">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Supplier.HomePage">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Supplier.Products">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:BasicMVCApplication.Supplier">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:BasicMVCApplication.Territory.CreateTerritory(System.String,System.String,System.Int32)">
+	<summary>
+ Create a new Territory object.
+ </summary>
+	<param name="territoryID">Initial value of the TerritoryID property.</param>
+	<param name="territoryDescription">Initial value of the TerritoryDescription property.</param>
+	<param name="regionID">Initial value of the RegionID property.</param>
+</member><member name="P:BasicMVCApplication.Territory.TerritoryID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Territory.TerritoryDescription">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Territory.RegionID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Territory.Region">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Territory.RegionReference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:BasicMVCApplication.Territory.Employees">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:BasicMVCApplication.Territory">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member>
+</members>
+</doc>

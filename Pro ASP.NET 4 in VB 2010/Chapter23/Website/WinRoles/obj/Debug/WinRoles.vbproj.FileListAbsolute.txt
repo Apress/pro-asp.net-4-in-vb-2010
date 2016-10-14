@@ -1,0 +1,9 @@
+D:\VBConversion\Chp_23\WinRoles\bin\WinRoles.dll
+D:\VBConversion\Chp_23\WinRoles\bin\WinRoles.pdb
+D:\VBConversion\Chp_23\WinRoles\bin\WinRoles.xml
+D:\VBConversion\Chp_23\WinRoles\obj\Debug\ResolveAssemblyReference.cache
+D:\VBConversion\Chp_23\WinRoles\obj\Debug\WinRoles.Resources.resources
+D:\VBConversion\Chp_23\WinRoles\obj\Debug\WinRoles.vbproj.GenerateResource.Cache
+D:\VBConversion\Chp_23\WinRoles\obj\Debug\WinRoles.dll
+D:\VBConversion\Chp_23\WinRoles\obj\Debug\WinRoles.xml
+D:\VBConversion\Chp_23\WinRoles\obj\Debug\WinRoles.pdb

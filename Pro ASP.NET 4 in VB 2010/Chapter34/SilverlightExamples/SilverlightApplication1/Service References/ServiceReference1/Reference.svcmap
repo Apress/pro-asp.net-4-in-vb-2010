@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="f9083a6a-ad04-4a17-9502-a0a325b17894" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.ObjectModel.ObservableCollection`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>false</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:49332/TestService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="TestService.xsd" MetadataType="Schema" ID="8346f6ef-069a-4a4e-adfc-0d4e984bd207" SourceId="1" SourceUrl="http://localhost:49332/TestService.svc?xsd=xsd1" />
+    <MetadataFile FileName="TestService1.xsd" MetadataType="Schema" ID="71dc861d-b2b8-4036-a4d1-ee34a7671d77" SourceId="1" SourceUrl="http://localhost:49332/TestService.svc?xsd=xsd0" />
+    <MetadataFile FileName="TestService.disco" MetadataType="Disco" ID="7d98d1d8-41b9-4a4e-9904-09ced38cd927" SourceId="1" SourceUrl="http://localhost:49332/TestService.svc?disco" />
+    <MetadataFile FileName="TestService.wsdl" MetadataType="Wsdl" ID="5dd0ae4c-3adb-4d6a-af93-e29a812ee86b" SourceId="1" SourceUrl="http://localhost:49332/TestService.svc?wsdl" />
+    <MetadataFile FileName="TestService1.wsdl" MetadataType="Wsdl" ID="c3dc2f4c-c02e-4773-bbba-ed7366918394" SourceId="1" SourceUrl="http://localhost:49332/TestService.svc?wsdl=wsdl0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

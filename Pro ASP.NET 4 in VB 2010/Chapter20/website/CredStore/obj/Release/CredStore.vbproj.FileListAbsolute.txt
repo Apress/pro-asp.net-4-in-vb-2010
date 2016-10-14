@@ -1,0 +1,20 @@
+C:\Users\TEMP\SimpleForms\CredStore\obj\Release\ResolveAssemblyReference.cache
+C:\Users\TEMP\SimpleForms\CredStore\obj\Release\CredStore.Resources.resources
+C:\Users\TEMP\SimpleForms\CredStore\obj\Release\GenerateResource.read.1.tlog
+C:\Users\TEMP\SimpleForms\CredStore\obj\Release\GenerateResource.write.1.tlog
+C:\Users\TEMP\SimpleForms\CredStore\bin\Release\CredStore.dll
+C:\Users\TEMP\SimpleForms\CredStore\bin\Release\CredStore.pdb
+C:\Users\TEMP\SimpleForms\CredStore\bin\Release\CredStore.xml
+C:\Users\TEMP\SimpleForms\CredStore\obj\Release\CredStore.dll
+C:\Users\TEMP\SimpleForms\CredStore\obj\Release\CredStore.xml
+C:\Users\TEMP\SimpleForms\CredStore\obj\Release\CredStore.pdb
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter20\website\CredStore\bin\Release\CredStore.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter20\website\CredStore\bin\Release\CredStore.pdb
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter20\website\CredStore\bin\Release\CredStore.xml
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter20\website\CredStore\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter20\website\CredStore\obj\Release\CredStore.Resources.resources
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter20\website\CredStore\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter20\website\CredStore\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter20\website\CredStore\obj\Release\CredStore.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter20\website\CredStore\obj\Release\CredStore.xml
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter20\website\CredStore\obj\Release\CredStore.pdb

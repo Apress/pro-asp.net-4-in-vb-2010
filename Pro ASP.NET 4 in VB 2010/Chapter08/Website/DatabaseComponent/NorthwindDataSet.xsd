@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="NorthwindDataSet" targetNamespace="http://tempuri.org/NorthwindDataSet.xsd" xmlns:mstns="http://tempuri.org/NorthwindDataSet.xsd" xmlns="http://tempuri.org/NorthwindDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="2" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="NorthwindConnectionString" IsAppSettingsProperty="true" Modifier="Assembly" Name="NorthwindConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.DatabaseComponent.Properties.Settings.GlobalReference.Default.NorthwindConnectionString" Provider="System.Data.SqlClient" />
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="NorthwindConnectionString1" IsAppSettingsProperty="true" Modifier="Assembly" Name="NorthwindConnectionString1 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.DatabaseComponent.Properties.Settings.GlobalReference.Default.NorthwindConnectionString1" Provider="System.Data.SqlClient" />
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="pubsConnectionString" IsAppSettingsProperty="true" Modifier="Assembly" Name="pubsConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.DatabaseComponent.Properties.Settings.GlobalReference.Default.pubsConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="NorthwindDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="NorthwindDataSet" msprop:Generator_DataSetName="NorthwindDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Products" msdata:CaseSensitive="False" msprop:Generator_UserTableName="Products" msprop:Generator_RowDeletedName="ProductsRowDeleted" msprop:Generator_RowChangedName="ProductsRowChanged" msprop:Generator_RowClassName="ProductsRow" msprop:Generator_RowChangingName="ProductsRowChanging" msprop:Generator_RowEvArgName="ProductsRowChangeEvent" msprop:Generator_RowEvHandlerName="ProductsRowChangeEventHandler" msprop:Generator_TableClassName="ProductsDataTable" msprop:Generator_TableVarName="tableProducts" msprop:Generator_RowDeletingName="ProductsRowDeleting" msprop:Generator_TablePropName="Products">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ProductID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:Generator_UserColumnName="ProductID" msprop:Generator_ColumnPropNameInRow="ProductID" msprop:Generator_ColumnVarNameInTable="columnProductID" msprop:Generator_ColumnPropNameInTable="ProductIDColumn" type="xs:int" />
+              <xs:element name="ProductName" msprop:Generator_UserColumnName="ProductName" msprop:Generator_ColumnPropNameInRow="ProductName" msprop:Generator_ColumnVarNameInTable="columnProductName" msprop:Generator_ColumnPropNameInTable="ProductNameColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="40" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SupplierID" msprop:Generator_UserColumnName="SupplierID" msprop:Generator_ColumnPropNameInRow="SupplierID" msprop:Generator_ColumnVarNameInTable="columnSupplierID" msprop:Generator_ColumnPropNameInTable="SupplierIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="CategoryID" msprop:Generator_UserColumnName="CategoryID" msprop:Generator_ColumnPropNameInRow="CategoryID" msprop:Generator_ColumnVarNameInTable="columnCategoryID" msprop:Generator_ColumnPropNameInTable="CategoryIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="QuantityPerUnit" msprop:Generator_UserColumnName="QuantityPerUnit" msprop:Generator_ColumnPropNameInRow="QuantityPerUnit" msprop:Generator_ColumnVarNameInTable="columnQuantityPerUnit" msprop:Generator_ColumnPropNameInTable="QuantityPerUnitColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="UnitPrice" msprop:Generator_UserColumnName="UnitPrice" msprop:Generator_ColumnPropNameInRow="UnitPrice" msprop:Generator_ColumnVarNameInTable="columnUnitPrice" msprop:Generator_ColumnPropNameInTable="UnitPriceColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="UnitsInStock" msprop:Generator_UserColumnName="UnitsInStock" msprop:Generator_ColumnPropNameInRow="UnitsInStock" msprop:Generator_ColumnVarNameInTable="columnUnitsInStock" msprop:Generator_ColumnPropNameInTable="UnitsInStockColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="UnitsOnOrder" msprop:Generator_UserColumnName="UnitsOnOrder" msprop:Generator_ColumnPropNameInRow="UnitsOnOrder" msprop:Generator_ColumnVarNameInTable="columnUnitsOnOrder" msprop:Generator_ColumnPropNameInTable="UnitsOnOrderColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="ReorderLevel" msprop:Generator_UserColumnName="ReorderLevel" msprop:Generator_ColumnPropNameInRow="ReorderLevel" msprop:Generator_ColumnVarNameInTable="columnReorderLevel" msprop:Generator_ColumnPropNameInTable="ReorderLevelColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="Discontinued" msprop:Generator_UserColumnName="Discontinued" msprop:Generator_ColumnPropNameInRow="Discontinued" msprop:Generator_ColumnVarNameInTable="columnDiscontinued" msprop:Generator_ColumnPropNameInTable="DiscontinuedColumn" type="xs:boolean" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Categories" msprop:Generator_UserTableName="Categories" msprop:Generator_RowDeletedName="CategoriesRowDeleted" msprop:Generator_RowChangedName="CategoriesRowChanged" msprop:Generator_RowClassName="CategoriesRow" msprop:Generator_RowChangingName="CategoriesRowChanging" msprop:Generator_RowEvArgName="CategoriesRowChangeEvent" msprop:Generator_RowEvHandlerName="CategoriesRowChangeEventHandler" msprop:Generator_TableClassName="CategoriesDataTable" msprop:Generator_TableVarName="tableCategories" msprop:Generator_RowDeletingName="CategoriesRowDeleting" msprop:Generator_TablePropName="Categories">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CategoryID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:Generator_UserColumnName="CategoryID" msprop:Generator_ColumnPropNameInRow="CategoryID" msprop:Generator_ColumnVarNameInTable="columnCategoryID" msprop:Generator_ColumnPropNameInTable="CategoryIDColumn" type="xs:int" />
+              <xs:element name="CategoryName" msprop:Generator_UserColumnName="CategoryName" msprop:Generator_ColumnPropNameInRow="CategoryName" msprop:Generator_ColumnVarNameInTable="columnCategoryName" msprop:Generator_ColumnPropNameInTable="CategoryNameColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Description" msprop:Generator_UserColumnName="Description" msprop:Generator_ColumnPropNameInRow="Description" msprop:Generator_ColumnVarNameInTable="columnDescription" msprop:Generator_ColumnPropNameInTable="DescriptionColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1073741823" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Picture" msprop:Generator_UserColumnName="Picture" msprop:Generator_ColumnPropNameInRow="Picture" msprop:Generator_ColumnVarNameInTable="columnPicture" msprop:Generator_ColumnPropNameInTable="PictureColumn" type="xs:base64Binary" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Products" />
+      <xs:field xpath="mstns:ProductID" />
+    </xs:unique>
+    <xs:unique name="Categories_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Categories" />
+      <xs:field xpath="mstns:CategoryID" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="FK_Products_Categories" msdata:parent="Categories" msdata:child="Products" msdata:parentkey="CategoryID" msdata:childkey="CategoryID" msprop:Generator_UserRelationName="FK_Products_Categories" msprop:Generator_RelationVarName="relationFK_Products_Categories" msprop:Generator_UserChildTable="Products" msprop:Generator_UserParentTable="Categories" msprop:Generator_ParentPropName="CategoriesRow" msprop:Generator_ChildPropName="GetProductsRows" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

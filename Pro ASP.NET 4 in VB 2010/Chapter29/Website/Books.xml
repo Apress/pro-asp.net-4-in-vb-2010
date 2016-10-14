@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Books>
+	<Book Title="Pro VB 2010 and the .NET 4.0 Platform" 
+        isbn="1430229853" Publisher="Apress"></Book>
+	<Book Title="Beginning ASP.NET 4 in VB 2010" 
+        isbn="1430226110" Publisher="Apress"></Book>
+	<Book Title="Pro WPF in VB 2010" 
+        isbn="1430272406" Publisher="Apress"></Book>
+	<Book Title="Pro LINQ: Language Integrated Query in VB 2008" 
+        isbn="1430216441" Publisher="Apress"></Book>
+</Books>

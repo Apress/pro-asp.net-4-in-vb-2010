@@ -1,0 +1,39 @@
+F:\Apress\SilverlightVB\SilverlightVB\SilverlightApplication1.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\Apress\SilverlightVB\SilverlightVB\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.Resources.resources
+F:\Apress\SilverlightVB\SilverlightVB\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.vbproj.GenerateResource.Cache
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.pdb
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.xml
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1.Web\bin\System.Web.Silverlight.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1.Web\bin\de\System.Web.Silverlight.resources.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1.Web\bin\es\System.Web.Silverlight.resources.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1.Web\bin\fr\System.Web.Silverlight.resources.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1.Web\bin\it\System.Web.Silverlight.resources.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1.Web\bin\ja\System.Web.Silverlight.resources.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1.Web\bin\ko\System.Web.Silverlight.resources.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1.Web\bin\zh-Hans\System.Web.Silverlight.resources.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1.Web\bin\zh-Hant\System.Web.Silverlight.resources.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.Resources.resources
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.vbproj.GenerateResource.Cache
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.dll
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.xml
+D:\Apress\Pro ASP .NET 3.5 in VB 2008\Pro ASP.NET VB2008\Chapter33\SilverlightVB\SilverlightVB\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.pdb
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.pdb
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.xml
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1.Web\bin\de\System.Web.Silverlight.resources.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1.Web\bin\es\System.Web.Silverlight.resources.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1.Web\bin\fr\System.Web.Silverlight.resources.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1.Web\bin\it\System.Web.Silverlight.resources.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1.Web\bin\ja\System.Web.Silverlight.resources.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1.Web\bin\ko\System.Web.Silverlight.resources.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1.Web\bin\zh-Hans\System.Web.Silverlight.resources.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1.Web\bin\zh-Hant\System.Web.Silverlight.resources.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.Resources.resources
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1.Web\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1.Web\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.dll
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.xml
+C:\Users\Milovan\Documents\Apress\Pro ASP NET\VB Revised Code\Code\Chapter34\SilverlightExamples\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.pdb

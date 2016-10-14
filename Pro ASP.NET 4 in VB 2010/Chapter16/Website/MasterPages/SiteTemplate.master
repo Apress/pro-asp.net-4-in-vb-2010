@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<%@ Master Language="VB" CodeFile="SiteTemplate.master.vb" Inherits="SiteTemplate" %>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Untitled Page</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <div style="background: black; height: 87px; font-weight: bold; font-size: 20px;
+            color: white; font-family: Verdana">
+            <img style="float:left" src="headerleft.jpg" alt="left fractal"/>
+            <img style="float:right" src="headerright.jpg" alt="right fractal"/>
+            <br />
+            <asp:ContentPlaceHolder ID="TitleContent" runat="server">
+                My Site
+            </asp:ContentPlaceHolder>
+        </div>
+        <br />
+        <br />
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+        <br />
+        <em>Copyright © 2010.</em>
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="VB" Debug="true" Service="SilverlightApplication1.Web.TestService" CodeBehind="TestService.svc.vb" %>
